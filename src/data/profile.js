@@ -14,7 +14,7 @@ export const profile = {
   linkedin: 'https://www.linkedin.com/in/babar-ali-7182b830b',
   github: 'https://github.com/Babarali05442',
   githubUsername: 'Babarali05442',
- resumeUrl: '/uploads/resume.pdf',
+ resumeUrl: '/uploads/my resume.pdf',
   profileImage: '/uploads/WhatsApp Image 2026-06-07 at 10.14.24 AM.jpeg',
 };
 
